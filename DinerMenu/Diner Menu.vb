@@ -2,7 +2,7 @@
 'RCET 2265
 'Spring 2025
 'Diner Menu
-'
+'https://github.com/hollnoah/DinerMenu.git
 
 Option Strict On
 Option Explicit On
