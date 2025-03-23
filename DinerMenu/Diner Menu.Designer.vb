@@ -82,9 +82,9 @@ Partial Class DinerMenuForm
         Me.DisplaySpecialLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DisplaySpecialLabel.Location = New System.Drawing.Point(68, 88)
         Me.DisplaySpecialLabel.Name = "DisplaySpecialLabel"
-        Me.DisplaySpecialLabel.Size = New System.Drawing.Size(395, 25)
+        Me.DisplaySpecialLabel.Size = New System.Drawing.Size(405, 25)
         Me.DisplaySpecialLabel.TabIndex = 5
-        Me.DisplaySpecialLabel.Text = "Select a menu option to view todays special!"
+        Me.DisplaySpecialLabel.Text = "Select a menu option to view todays specials!"
         Me.DisplaySpecialLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'DinerMenuForm
